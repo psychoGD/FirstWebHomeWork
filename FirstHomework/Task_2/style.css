@@ -1,0 +1,49 @@
+.main{
+    width: 50%;
+    margin: auto;
+    height: 90vh;
+    
+}
+
+
+.main > h1{
+    
+}
+
+
+body{
+    background-color: whitesmoke;
+}
+
+
+.item{
+    display: inline-block;
+    background-color: white;
+    border-radius: 10%;
+    margin: 10px;
+    width: 300px;
+    margin-left: 5%;
+    
+}
+
+
+.item > img{
+    width: 150px;
+    height: 200px;
+    float: right;
+}
+
+
+.item > h2{
+    margin-left: 10px;
+}
+
+
+#bicycleImg{
+    width: 250px;
+}
+
+#trainImg{
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,93 @@
+body {
+    background-color: white;
+}
+
+.mainDiv {
+    margin: 0% 20%;
+    background-color: white;
+}
+
+.buttonDiv {
+    vertical-align: middle;
+}
+
+.button {
+    background-color: #fff;
+    margin-left: 9%;
+    border: 1px solid #d5d9d9;
+    border-radius: 15px;
+    box-shadow: rgba(213, 217, 217, .5) 0 2px 5px 0;
+    box-sizing: border-box;
+    color: #0f1111;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Amazon Ember", sans-serif;
+    font-size: 20px;
+    line-height: 29px;
+    padding: 0 10px 0 11px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 20%;
+}
+
+.button:hover {
+    background-color: rgb(130, 130, 130);
+    color: #fff;
+}
+
+.d-1{
+    border-radius: 10%;
+    margin-top: 5%;
+    margin-left: 4%;
+    background-color: rgb(29, 136, 244);
+    width: 40%;
+    height: 300px;
+    display: inline-block;
+    
+}
+
+.divSecond{
+
+}
+
+.d-1 > img,h3,p,h5{
+    margin-left: 5%;
+}
+
+.d-1 > img{
+    margin-top: 5%;
+}
+
+img{
+
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+
+.d-1 > h3,h5,p{
+    color: white;
+}
+
+
+#div-2{
+    background-color: #F5CE11;
+}
+
+#div-3{
+    background-color: #2DE6CF;
+}
+
+#div-4{
+    background-color: #9178FC;
+}
+
+#div-5{
+    background-color: #FEA818;
+}
+
+#div-6{
+    background-color: #FF6394;
+}
